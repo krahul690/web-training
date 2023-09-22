@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Div</title>
+  </head>
+
+  <body>
+    <div style="background-color: yellow; width: 700px; height: 100px">
+      <div
+        style="
+          background-color: rgb(247, 168, 168);
+          width: 150px;
+          height: 100px;
+          float: left;
+        "
+      ></div>
+      <div
+        style="
+          background-color: rgb(207, 39, 39);
+          width: 550px;
+          height: 100px;
+          float: left;
+        "
+      ></div>
+    </div>
+    <div style="background-color: #63b4ca; width: 700px; height: 60px">
+      <div
+        style="
+          background-color: #66a0b0;
+          width: 100px;
+          height: 60px;
+          float: left;
+        "
+      >
+        A
+      </div>
+      <div
+        style="
+          background-color: #828586;
+          width: 350px;
+          height: 60px;
+          float: left;
+        "
+      >
+        B
+      </div>
+      <div
+        style="
+          background-color: #08c58c;
+          width: 250px;
+          height: 60px;
+          float: left;
+        "
+      >
+        C
+      </div>
+    </div>
+    <div style="background-color: #63b4ca; width: 700px; height: 300px"></div>
+    <div
+      style="
+        background-color: #16465e;
+        width: 700px;
+        height: 60px;
+        text-align: center;
+      "
+    >
+      Thanks
+    </div>
+  </body>
+</html>
